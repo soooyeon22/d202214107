@@ -4,6 +4,7 @@ public class Main {
       System.out.println("이소연");
       World.run();
       Hello.run();
+      World.run2();
     }
   }
   
